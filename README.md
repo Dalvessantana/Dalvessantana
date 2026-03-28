@@ -1,7 +1,7 @@
 # Hi 👋, I'm Davi Oliveira Alves Santana
 
- Desenvolvedor Full Stack em constante evolução, com conhecimentos em desenvolvimento web e banco de dados.  
-Sou apaixonado por tecnologia e gosto de desenvolver projetos próprios para praticar, aprender novas ferramentas e evoluir minhas habilidades como programador.
+Desenvolvedor Full Stack em aprendizado,com conhecimentos em desenvolvimento web e banco de dados.  
+Sou apaixonado por tecnologia e resolução gosto de desenvolver projetos próprios que resolvam problemas reais para praticar, aprender novas ferramentas e evoluir minhas habilidades como programador.
 
 ---
 
