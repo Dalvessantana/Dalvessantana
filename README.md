@@ -36,7 +36,7 @@ Sou apaixonado por tecnologia e resolução gosto de desenvolver projetos própr
 
 ##  Atualmente focado em
 
-- Aprimorar minhas habilidades em **Full Stack Development**
+- Aprimorar minhas habilidades em **Full Stack **
 - Desenvolver projetos completos com **Front-End + Back-End**
 - Aprender mais sobre **banco de dados e arquitetura de sistemas**
 
