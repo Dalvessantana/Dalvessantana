@@ -42,7 +42,6 @@ Sou apaixonado por tecnologia e resolução gosto de desenvolver projetos própr
 
 ---
 
-##  Como me encontrar
 
 
 <picture>
